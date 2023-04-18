@@ -267,7 +267,7 @@ class BaseLLMModel:
         stream=False,
         use_websearch=False,
         files=None,
-        reply_language="中文",
+        reply_language="English",
         should_check_token_count=True,
     ):  # repetition_penalty, top_k
 
